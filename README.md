@@ -241,7 +241,7 @@
 - [\_Wr\_](https://github.com/at-wr)
 - [Sparrow He](https://github.com/sparrowhe)
 - [yang233](https://github.com/hkyang233)
-- [MoYuanCN](https://moyuancn.vip)
+- [MoYuanCN](https://github.com/MoYuanCN)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
